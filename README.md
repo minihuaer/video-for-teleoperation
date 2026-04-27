@@ -1,2 +1,2 @@
 # video-for-teleoperation
-video for teleopration
+Demo video for MCAT: A Monocular Camera-Based Adaptive Teleoperation System for Dual-Arm Robot Demonstration.
